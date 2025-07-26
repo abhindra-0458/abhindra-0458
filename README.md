@@ -18,37 +18,27 @@
 
 ### ⚙️ Tech Stack
 
-- **Languages:** Python, JavaScript, C++, TypeScript  
+- **Languages:** Python, JavaScript
 - **Frameworks & Tools:** React, Node.js, Express, Flask, EJS  
-- **Databases:** MongoDB, MySQL  
-- **Other:** Git, Firebase, IBM Watson, OpenWeatherMap API
+- **Databases:** PostgreSQL, MySQL  
+- **Other:** Git, IBM Watson, OpenWeatherMap API
 
 ---
 
 ### 🌟 Featured Projects
 
-- 🚗 **RidePal** – A ride-sharing and group tracking platform with alerts & location sharing  
-- 🌧️ **Weather Buddy** – Weather-based decision app powered by OpenWeatherMap  
+- 🌧️ **Weather Companion** – Weather-based decision app powered by OpenWeatherMap  
 - 🧪 **AI Water Quality Advisor** – IBM Cloud ML model to assess aquatic viability  
 - 🧰 **Data Structure Visualizer** – Visual learning tool for core CS concepts  
 - ✋ **Gesture Control Interface** – Python + OpenCV based gesture navigation system  
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhindra-0458&show_icons=true&theme=tokyonight" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhindra-0458&theme=tokyonight" width="450"/>
-</p>
-
----
-
 ### 📫 Connect with Me
 
-- 📧 **abhindrakrishna.km@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/abhindrakrishna)  
-- 📸 [Instagram](https://instagram.com/abhindrakrishna)  
+- 📧 **abhindrakrishnakm@gmail.com**  
+- 💼 [LinkedIn](https://linkedin.com/in/abhindra-krishna)  
+- 📸 [Instagram](https://instagram.com/_.abhindra._) 
 - 📍 Kochi, India  
 
 ---

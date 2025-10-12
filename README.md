@@ -30,7 +30,6 @@
 - 🌧️ **Weather Companion** – Weather-based decision app powered by OpenWeatherMap  
 - 🧪 **AI Water Quality Advisor** – IBM Cloud ML model to assess aquatic viability  
 - 🧰 **Data Structure Visualizer** – Visual learning tool for core CS concepts  
-- ✋ **Gesture Control Interface** – Python + OpenCV based gesture navigation system  
 
 ---
 

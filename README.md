@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Abhindra Krishna K M</h1>
 
 <p align="center">
-   AI/ML Enthusiast | Full Stack Developer | Creative Technologist  
+   AI/ML | Full Stack | Cyber Security
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ###  About Me
 
 -  CSE undergrad passionate about building smart, efficient, and scalable software
--  Interested in AI, ML, and automation-driven systems
+-  Interested in AI, cyber security, and automation-driven systems
 -  Actively building full-stack apps with real-world use cases
 -  Exploring opportunities to dive into hardware and embedded systems
 -  Fan of automobiles, photography, and hands-on innovation

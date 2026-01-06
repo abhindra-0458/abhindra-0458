@@ -28,7 +28,6 @@
 ###  Featured Projects
 
 -  **Calorify** – AI-powered food recognition app that captures meal images and provides calorie insights using TensorFlow and Flask. 
--  **TorqHub** – Vehicle rental system featuring optimized SQL triggers for booking management and a user-friendly JavaScript front-end.
 -  **RideShare** – Cross-platform Flutter app enabling live location sharing and group ride coordination. (Ongoing)
 
 ---
